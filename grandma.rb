@@ -11,3 +11,11 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+Name = speak_to_grandma 
+If name == “grandma”
+Puts “ huh speak up , sonny”.capitalize
+return (i love you pumpkin)
+Elseif name == “sonny”
+Else " shout"
+Puts "no not since 1938"
