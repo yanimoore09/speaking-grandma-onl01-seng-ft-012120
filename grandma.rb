@@ -14,7 +14,7 @@
 
 Name = speak_to_grandma 
 If name == “grandma”
-Puts “ huh speak up , sonny”
-Elseif name == “”
-Else
-Puts “hello stranger”
+Puts “ huh speak up , sonny”.capitalize
+Elseif name == “sonny”
+Else " shout"
+Puts "no not since 1938"
